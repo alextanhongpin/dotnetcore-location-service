@@ -1,0 +1,10 @@
+/Users/alextanhongpin/Documents/c-sharp/LocationService/Company.LocationService/bin/Debug/netcoreapp2.0/Company.LocationService.deps.json
+/Users/alextanhongpin/Documents/c-sharp/LocationService/Company.LocationService/bin/Debug/netcoreapp2.0/Company.LocationService.runtimeconfig.json
+/Users/alextanhongpin/Documents/c-sharp/LocationService/Company.LocationService/bin/Debug/netcoreapp2.0/Company.LocationService.runtimeconfig.dev.json
+/Users/alextanhongpin/Documents/c-sharp/LocationService/Company.LocationService/bin/Debug/netcoreapp2.0/Company.LocationService.dll
+/Users/alextanhongpin/Documents/c-sharp/LocationService/Company.LocationService/bin/Debug/netcoreapp2.0/Company.LocationService.pdb
+/Users/alextanhongpin/Documents/c-sharp/LocationService/Company.LocationService/obj/Debug/netcoreapp2.0/Company.LocationService.csproj.CoreCompileInputs.cache
+/Users/alextanhongpin/Documents/c-sharp/LocationService/Company.LocationService/obj/Debug/netcoreapp2.0/Company.LocationService.AssemblyInfoInputs.cache
+/Users/alextanhongpin/Documents/c-sharp/LocationService/Company.LocationService/obj/Debug/netcoreapp2.0/Company.LocationService.AssemblyInfo.cs
+/Users/alextanhongpin/Documents/c-sharp/LocationService/Company.LocationService/obj/Debug/netcoreapp2.0/Company.LocationService.dll
+/Users/alextanhongpin/Documents/c-sharp/LocationService/Company.LocationService/obj/Debug/netcoreapp2.0/Company.LocationService.pdb
